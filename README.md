@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a code repository a ChatGPT-3 Model Web Application.
+This is a code repository for a ChatGPT-3 Model Web Application.
 
 # Screenshot
 
