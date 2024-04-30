@@ -8,7 +8,7 @@ This is a code repository a ChatGPT-3 Model Web Application.
 
 # Live URL
 
-- 
+- https://assilko.github.io/gpt3-model-app/
 
 # Features
 
